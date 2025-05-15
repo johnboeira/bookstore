@@ -15,6 +15,13 @@ pip install fastapi[all]
 
 ---
 
+## Active venv
+
+````bash
+.venv\Scripts\activate
+````
+
+
 ## Running the application (Executando a aplicação)
 
 ````bash
